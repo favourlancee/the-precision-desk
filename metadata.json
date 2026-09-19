@@ -1,0 +1,6 @@
+{
+  "name": "The Precision Desk",
+  "description": "Professional translation, localization, and language resources by Favour Dudubo. Specializing in English ↔ Norwegian and English ↔ Swedish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
